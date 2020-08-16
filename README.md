@@ -14,4 +14,5 @@ To run the script directly with python, run the command: `python youtube-downloa
 ### Compile the script as a .exe file
 
 Run the command: `python setup.py build`
-Now in the build folder you can find the executable file to run the script without python installed
+
+Now in the `build/` folder you can find the executable file to run the script without python installed
